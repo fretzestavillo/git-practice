@@ -6,3 +6,4 @@ cat notes.txt
 echo "3"
 echo "4"
 echo "5"
+cat lyrics.txt
